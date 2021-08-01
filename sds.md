@@ -8,8 +8,8 @@ It is compatible with char array string.
 
 ## Source/Header
 
-https://github.com/fluent/fluent-bit/blob/master/src/flb_sds.c
-https://github.com/fluent/fluent-bit/blob/master/include/fluent-bit/flb_sds.h
+- https://github.com/fluent/fluent-bit/blob/master/src/flb_sds.c
+- https://github.com/fluent/fluent-bit/blob/master/include/fluent-bit/flb_sds.h
 
 
 ## Data structure of `flb_sds`.
