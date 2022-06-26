@@ -42,7 +42,7 @@ val2 -> head -> val1 -> val2 -> head ...
 #### Description
 
 The **mk_list_add_after** function adds _new to next of prev.
-If the list is empty, it calls **mk_list_add**.
+If the list size is 0 or 1, it calls **mk_list_add**.
 
 
 The list is 
